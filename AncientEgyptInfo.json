@@ -1,16 +1,16 @@
 [{
-	"image": "@drawable/logo",
+	"image": "android.resource://peterwitherford.ancientegypt/R.drawable.pyramid",
 	"text": "Most Ancient Egyptian pyramids were built as tombs for pharaohs (rulers of Ancient Egypt) and their families. To date, over 130 pyramids have been discovered in Egypt."
 }, {
-	"image": "@drawable/afterlife",
+	"image": "android.resource://peterwitherford.ancientegypt/R.drawable.pyramid",
 	"text": "The afterlife was incredibly important to the Egyptians. They believed that by preserving a dead person’s body – which they did through the process of mummification – their soul would live on in the after-life forever."
 }, {
-	"image": "@drawable/makeup",
+	"image": "android.resource://peterwitherford.ancientegypt/R.drawable.pyramid",
 	"text": "Both Egyptian men and women wore make-up. The eye-paint was usually green (made from copper) or black (made from lead). As well as offering protection from the sun, the Egyptians believed make-up had magical healing powers, too!"
 }, {
-	"image": "@drawable/bandages",
+	"image": "android.resource://peterwitherford.ancientegypt/R.drawable.pyramid",
 	"text": "Unwrapped, the bandages of an Ancient Egyptian mummy could stretch for 1.6km. Yikes!"
 }, {
-	"image": "@drawable/hieroglyphs",
+	"image": "android.resource://peterwitherford.ancientegypt/R.drawable.pyramid",
 	"text": "The Egyptian alphabet contained more than 700 hieroglyphs!"
 }]
